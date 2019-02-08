@@ -1,0 +1,28 @@
+h1{
+  color: #7c795d; font-family: serif; font-size: 45px; font-weight: normal;padding: 2px; margin:2px; border-spacing: 2px;
+}
+.modules{
+  color: #7c795d; font-family:sans-serif; font-size: 28px; font-weight: 400; margin: 2px;
+}
+.skills{
+  color: #4c4a37; font-family: sans-serif; font-size: 14px; float: left;float: left; width: 50%;
+
+}
+.Personal-info{
+  color: #333333; font-family:Arial; font-size: 16px; font-weight: 300; margin-bottom: 2px;
+}
+.header{
+  font-family:sans-serif; font-size: 18px; color: #333;
+}
+.education{
+   color: #222; font-family: 'Open Sans', sans-serif; font-size: 15px; font-weight: 400; float: right; width: 50%;
+}
+.contact-info{
+  color: #bbc3c8; font-family: 'Verdana', sans-serif; font-size: 16px; float: left; width: 50%;
+}
+body{
+  text-align: center;
+}
+p{
+  margin: 2px;
+}
